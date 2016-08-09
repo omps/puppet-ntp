@@ -1,0 +1,15 @@
+{
+  "name": "omps-ntp",
+  "version": "0.1.0",
+  "author": "omps",
+  "summary": null,
+  "license": "Apache-2.0",
+  "source": "https://github.com/omps/puppet-ntp",
+  "project_page": "https://github.com/omps/puppet-ntp/wiki",
+  "issues_url": "https://github.com/omps/puppet-ntp/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
